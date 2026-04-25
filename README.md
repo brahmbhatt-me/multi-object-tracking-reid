@@ -23,18 +23,6 @@ A complete multi-object tracking system with appearance-based re-identification,
 
 ---
 
-## 📺 Demo
-
-<!-- Replace these with actual GitHub-hosted screenshots / GIFs of your output videos -->
-
-| Level 1: Single-object | Level 2: Multi-object + Re-ID | Level 3: Cross-camera |
-|:---:|:---:|:---:|
-| ![Level 1](docs/images/clip1_frame.png) | ![Level 2](docs/images/multi2b_frame.png) | ![Level 3](docs/images/l3_frame_cam1.png) |
-
-> 💡 **Tip:** For best demos on GitHub, convert your output `.mp4` files to short `.gif` clips (≤10 MB) with `ffmpeg -i input.mp4 -vf "fps=10,scale=480:-1" -t 8 demo.gif` and link them above.
-
----
-
 ## 🏗️ Pipeline
 
 ```
